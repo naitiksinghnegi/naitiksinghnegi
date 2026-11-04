@@ -75,21 +75,6 @@ A web project focused on creating an online clothing store experience.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naitiksinghnegi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitiksinghnegi&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitiksinghnegi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
